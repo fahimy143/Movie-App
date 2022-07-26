@@ -21,6 +21,12 @@ header {
   background-color: var(--secondary-color);
 }
 
+.logo {
+  font-weight: bold;
+  color:orange;
+  font-size: 30px;
+}
+
 .search {
   background-color: transparent;
   border: 2px solid var(--primary-color);
